@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+node_modules/
+dist/
+backend/uploads/
+backend/faiss_indices/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+.vite/
+.DS_Store
